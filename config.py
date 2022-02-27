@@ -15,4 +15,4 @@ use_ssl = True
 ssl_port = 465
 
 # receiver_email
-receivers = ['1512687306@qq.com','alphaboy@mail.ustc.edu.cn']
+receivers = ['993567142@qq.com']
